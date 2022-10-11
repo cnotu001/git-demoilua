@@ -1,5 +1,5 @@
 
-# Git-demoilua
+# Git/GitHub-demoilua
 Kokeillaan GitHubia
 
 ## Ominaisuuslista (features)
@@ -9,3 +9,5 @@ Kokeillaan GitHubia
 * Boostrap mukaan
 * Kissakuva etusivulle
 * Linkki Xamkin sivuille
+
+---
